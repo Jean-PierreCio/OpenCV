@@ -4,6 +4,7 @@ import argparse
 import numpy as np
 import argparse
 
+
 max_value = 255
 max_value_H = 360//2
 low_H = 0
